@@ -1,4 +1,4 @@
-# Next.js Modular API with Drizzle, Better Auth & Scalar
+# Next.js Modular API with Drizzle, Better Auth & Scalar Docs
 
 A modern, scalable API starter template built with Next.js App Router, Drizzle ORM, and Better Auth.
 
